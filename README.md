@@ -29,5 +29,5 @@
 <a href="https://www.hackerrank.com/vivektripaathy"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" title="Hackerrank"></a>
  </p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeforcause123&" alt="codeforcause123" /></p>
 <br/>
