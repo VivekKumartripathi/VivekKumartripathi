@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">An engineering undergrad and a frontend developer and ML.<br /><br />
+<h3 align="center">A Passionate Frontend Developer from India.<br /><br />
 </h3>
 
 - 🔭 I’m currently working with **the Frontend to build web applications and ML for Data Analytics**
-- 🌱 I’m currently learning React and Javascript
+- 🌱 I’m currently Working on  React, Angular and Typescript
 - 👯 I’m looking to collaborate on Web and ML Projects
 - 📫 How to reach me **vivektripaathy@gmail.com**
 
